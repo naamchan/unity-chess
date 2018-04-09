@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 4e13a4c52b78d6e468bfbe83536f7663
+timeCreated: 1520842243
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Black_Bishop
+    100002: Black_King
+    100004: Black_Knight
+    100006: Black_Pawn
+    100008: Black_Queen
+    100010: Black_Rook
+    100012: //RootNode
+    100014: directionalLight1
+    100016: pPlane1
+    100018: White_Bishop
+    100020: White_King
+    100022: White_Knight
+    100024: White_Pawn
+    100026: White_Queen
+    100028: White_Rook
+    400000: Black_Bishop
+    400002: Black_King
+    400004: Black_Knight
+    400006: Black_Pawn
+    400008: Black_Queen
+    400010: Black_Rook
+    400012: //RootNode
+    400014: directionalLight1
+    400016: pPlane1
+    400018: White_Bishop
+    400020: White_King
+    400022: White_Knight
+    400024: White_Pawn
+    400026: White_Queen
+    400028: White_Rook
+    2100000: white
+    2100002: black
+    2100004: lambert2
+    2300000: Black_Bishop
+    2300002: Black_King
+    2300004: Black_Knight
+    2300006: Black_Pawn
+    2300008: Black_Queen
+    2300010: Black_Rook
+    2300012: pPlane1
+    2300014: White_Bishop
+    2300016: White_King
+    2300018: White_Knight
+    2300020: White_Pawn
+    2300022: White_Queen
+    2300024: White_Rook
+    3300000: Black_Bishop
+    3300002: Black_King
+    3300004: Black_Knight
+    3300006: Black_Pawn
+    3300008: Black_Queen
+    3300010: Black_Rook
+    3300012: pPlane1
+    3300014: White_Bishop
+    3300016: White_King
+    3300018: White_Knight
+    3300020: White_Pawn
+    3300022: White_Queen
+    3300024: White_Rook
+    4300000: White_King
+    4300002: White_Queen
+    4300004: White_Bishop
+    4300006: White_Rook
+    4300008: White_Knight
+    4300010: White_Pawn
+    4300012: Black_King
+    4300014: Black_Queen
+    4300016: Black_Bishop
+    4300018: Black_Rook
+    4300020: Black_Knight
+    4300022: Black_Pawn
+    4300024: pPlane1
+    10800000: directionalLight1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2100000, guid: f779a3dd1e176fe4bb93ba2c1d295241, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white
+    second: {fileID: 2100000, guid: 068dc6eaa16278c48a1ae24f87d9d6ee, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 25
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
